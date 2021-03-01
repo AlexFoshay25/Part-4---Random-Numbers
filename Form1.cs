@@ -56,6 +56,7 @@ namespace Part_4___Random_Numbers
         {
             //Double
 
+
             dMax = Convert.ToDouble(txtMax.Text);
             dMin = Convert.ToDouble(txtMin.Text);
 
